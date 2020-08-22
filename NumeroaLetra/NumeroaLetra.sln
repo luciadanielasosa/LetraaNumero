@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroaLetra", "NumeroaLetra\NumeroaLetra.csproj", "{6C94829A-A99E-4A0C-B054-66B726C8797B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumeroaLetra", "NumeroaLetra\NumeroaLetra.csproj", "{6C94829A-A99E-4A0C-B054-66B726C8797B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestNumeroaLetra", "UnitTestNumeroaLetra\UnitTestNumeroaLetra.csproj", "{8297EC43-1859-406B-B31F-FD2ADE13BE0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6C94829A-A99E-4A0C-B054-66B726C8797B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C94829A-A99E-4A0C-B054-66B726C8797B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C94829A-A99E-4A0C-B054-66B726C8797B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8297EC43-1859-406B-B31F-FD2ADE13BE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8297EC43-1859-406B-B31F-FD2ADE13BE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8297EC43-1859-406B-B31F-FD2ADE13BE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8297EC43-1859-406B-B31F-FD2ADE13BE0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
